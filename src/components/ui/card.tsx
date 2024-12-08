@@ -1,3 +1,4 @@
+/*eslint-disable react/no-unescaped-entities */
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
